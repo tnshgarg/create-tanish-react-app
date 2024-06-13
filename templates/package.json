@@ -1,0 +1,18 @@
+{
+  "name": "tanish-react-app",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "scripts": {
+    "dev": "npx webpack && tsc && npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  }
+}

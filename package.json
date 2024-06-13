@@ -1,0 +1,21 @@
+{
+  "name": "create-tanish-react-app",
+  "version": "1.0.3",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  },
+  "bin": {
+    "create-tanish-react-app": "./dist/index.js"
+  }
+}
